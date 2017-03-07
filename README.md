@@ -1,5 +1,5 @@
 # DataDrivenTesting
 
-Written answers are located in the PDF Data-driven-testing. 
+Written answers are located in the Data-driven-exercise.pdf file. 
 
-The actual test code is located in the other .java file.
+The test code is located in the RecognitionAllIt.java file.
