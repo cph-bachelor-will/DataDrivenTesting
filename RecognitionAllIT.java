@@ -25,7 +25,7 @@ import org.junit.runners.Parameterized;
 @RunWith(Parameterized.class)
 public class RecognitionAllIT {
 
-    File numberPlateSnapshot;
+    File snapshot;
     String expectedNumberPlate;
 
     public RecognitionAllIT(File snapshot, String expectedNumberPlate) {
